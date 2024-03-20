@@ -120,4 +120,4 @@ const data = [
   ReactDOM.render(App(), document.getElementById("root"));
   
 
-  // just set up repository 
+  // accepted collaborators 
